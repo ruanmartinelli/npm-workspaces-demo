@@ -1,8 +1,8 @@
 {
-  "name": "dep-b",
+  "name": "package-b",
   "private": true,
   "version": "1.0.0",
   "dependencies": {
-    "dep-a": "1.0.0"
+    "package-a": "1.0.0"
   }
 }
