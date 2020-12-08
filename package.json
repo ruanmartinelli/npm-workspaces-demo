@@ -5,5 +5,8 @@
   "license": "MIT",
   "workspaces": [
     "./packages/*"
-  ]
+  ],
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
