@@ -2,6 +2,9 @@
   "name": "package-b",
   "private": true,
   "version": "1.0.0",
+  "scripts": {
+    "test": "echo 'all tests passed!'"
+  },
   "dependencies": {
     "package-a": "1.0.0"
   }
