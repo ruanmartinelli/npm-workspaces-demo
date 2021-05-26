@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "author": "Ruan Martinelli",
   "license": "MIT",
+  "engines": {
+    "npm": "7.13.0",
+    "node": "16.2.0"
+  },
   "workspaces": [
     "./packages/*"
   ]
